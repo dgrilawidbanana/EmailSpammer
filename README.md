@@ -6,8 +6,8 @@ Supports Gmail, Yahoo, Hotmail, and Outlook.
 ## Usage
 ### Linux
 ```
-$ git clone https://github.com/mkdirlove/SPAM-EMAIL
-$ cd SPAM-EMAIL
+$ git clone https://github.com/theUnknowableOne/EmailSpammer
+$ cd EmailSpammer
 $ python3 main.py
 ```
 ### Other
